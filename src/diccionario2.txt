@@ -1,0 +1,10 @@
+
+(tree,arbol)
+(tangent,tangente)
+(love,amor)
+(lunch,almuerzo)
+(computer,computadora)
+(camera,camara)
+(nacho,nacho)
+(shirt,camisa)
+(cellphone,celular)

@@ -3,7 +3,8 @@
 	Sergio Cancinos,	13062
 	
 	diccionario.java
-		Se utiliza en un texto que tiene 
+		Se utiliza en un texto que tiene la oración en ingles y se busca en el diccionario por último se 
+                traduce
 */
 
 package lab7;
